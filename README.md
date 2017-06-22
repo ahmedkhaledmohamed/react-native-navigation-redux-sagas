@@ -1,4 +1,4 @@
-# gh-notetaker-redux
+# react-native-navigation-redux-sagas
 Github note taker React Native App with React Navigation and Redux
 
 This my extension to @tylermcginnis's Notetaker with React Native 
