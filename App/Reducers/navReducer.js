@@ -1,4 +1,4 @@
-import AppNavigator from '../AppNavigation/appNavigator';
+import {AppNavigator} from '../AppNavigation';
 import { NavigationActions } from 'react-navigation';
 
 const NavReducer = (state, action) => {
